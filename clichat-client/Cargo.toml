@@ -1,0 +1,12 @@
+[package]
+name = "clicaht-client"
+version = "0.1.0"
+authors = ["Emirhan TALA <emirhantala99ff99@gmail.com>"]
+description = "A basic terminal chat application written with the Rust programming language."
+license = "Apache-2.0"
+readme = "README.md"
+repository = "https://github.com/Emivvvvv/clichat"
+edition = "2021"
+
+
+[dependencies]
